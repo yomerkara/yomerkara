@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yomerkara&label=Profile%20views&color=0e75b6&style=flat" alt="yomerkara" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yomerkara](https://github.com/yomerkara)
+- 👨‍💻 All of my projects are available at [https://github.com/yomerkara?tab=repositories](https://github.com/yomerkara?tab=repositoriesa)
 
 - 📝 I regularly write articles on [https://medium.com/@yomerkara](https://medium.com/@yomerkara)
 
