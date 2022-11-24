@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Yasin Ömer Kara.</h1>
 <h3 align="center">I'm currently working as a Data Engineer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yomerkara&label=Profile%20views&color=0e75b6&style=flat" alt="yomerkara" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/yomerkara](https://github.com/yomerkara)
 
 - 📝 I regularly write articles on [https://medium.com/@yomerkara](https://medium.com/@yomerkara)
@@ -8,10 +10,6 @@
 - 📫 How to reach me **y.omerkara1136@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yasin-%C3%B6mer-kara](https://www.linkedin.com/in/yasin-%C3%B6mer-kara)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
