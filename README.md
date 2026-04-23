@@ -39,13 +39,17 @@ Building scalable data platforms, modern analytics solutions, and AI-driven syst
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yasin-%C3%B6mer-kara/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<p align="center">
+<a href="https://www.linkedin.com/in/yasin-%C3%B6mer-kara/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yasin%20%C3%96mer%20Kara-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://medium.com/@yomerkara" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+<a href="https://medium.com/@yomerkara" target="_blank">
+<img src="https://img.shields.io/badge/Medium-@yomerkara-black?style=for-the-badge&logo=medium" />
+</a>
+
+<a href="mailto:y.omerkara1136@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
