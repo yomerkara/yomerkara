@@ -15,7 +15,7 @@ Building scalable data platforms, modern analytics solutions, and AI-driven syst
 
 ## 🚀 About Me
 
-- 💼 Working as a **Senior Cloud Data Engineer**
+- 💼 Working as a **Senior Data Engineer**
 - ☁️ Specialized in **BigQuery, Snowflake, Airflow, Spark, dbt**
 - 🤖 Interested in **AI, LLMs, RAG Systems, Agentic AI**
 - 📊 Passionate about building **modern data warehouses & scalable pipelines**
@@ -57,13 +57,13 @@ Building scalable data platforms, modern analytics solutions, and AI-driven syst
 `BigQuery` `Snowflake` `Apache Spark` `Airflow` `dbt` `Kafka`
 
 ### Cloud & DevOps
-`GCP` `Docker` `Kubernetes` `Linux` `Jenkins`
+`GCP` `Docker` `Kubernetes` `Linux` `Jenkins` `AWS`
 
 ### Programming
 `Python` `SQL` `Scala` `Java`
 
 ### Databases
-`PostgreSQL` `MongoDB` `Redis` `Oracle`
+`PostgreSQL` `MongoDB` `Redis` `Cassandra` `Elasticsearch` 
 
 ### AI / ML
 `TensorFlow` `PyTorch` `Scikit-learn`
