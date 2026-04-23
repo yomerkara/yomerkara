@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Ömer Kara</h1>
-<h3 align="center">Senior Cloud Data Engineer | Data Platforms | AI Enthusiast</h3>
+<h3 align="center">Senior Data Engineer | Data Platforms | AI Enthusiast</h3>
 
 <p align="center">
 Building scalable data platforms, modern analytics solutions, and AI-driven systems.
